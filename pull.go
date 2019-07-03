@@ -1,1 +1,5 @@
-"test"
+package pull
+
+func pull() {
+
+}
